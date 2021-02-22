@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Ayberk</h1>
+<h1 align="center">Hi 👋, I'm Arif</h1>
 <h3 align="center">I'm third grade computer engineering student at Dokuz Eylül University.</h3>
 I completed so many projects with so many different field by using different programming languages but currently I'm working and improving myself on data science, machine learning, deep learning. I'm addicted to getting better everyday and can not stop learning until become the best one. My aim is to become a successful data developer/machine learning developer.</br>
 
@@ -7,13 +7,14 @@ I completed so many projects with so many different field by using different pro
 - 🔭 I’m currently working on **deep learning projects.**
 - 🌱 I’m currently learning **openCV and deep learning.**
 - 💻 All of my projects are available at my repositories.
-- 📫 How to reach me **sayberkkilicaslan@gmail.com**
-- 📄 Know about my experiences here my cv : (https://smallpdf.com/shared#st=82818a71-d106-47a0-a92a-e7645844c172&fn=ayberkCv.pdf&ct=1614013092067&tl=share-document&rf=link)
+- 📫 How to reach me **arif.mertaslan@gmail.com**
+- 📄 Know about my experiences here my cv : Coming soon..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sayberk-kilicaslan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sayberk-kilicaslan/" height="30" width="40" /></a>
- <a href="https://www.instagram.com/ayberkkilicasln/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sayberk-kilicaslan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arifmertaslan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sayberk-kilicaslan/" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/arifmertaslan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sayberk-kilicaslan/" height="30" width="40" /></a>
+ <a href="https://twitter.com/aamertaslan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sayberk-kilicaslan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
