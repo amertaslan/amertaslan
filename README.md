@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">Studying at Dokuz Eylul University Computer Engineering Department.</h3>
+<h3>Studying at Dokuz Eylul University Computer Engineering Department.</h3>
 I completed so many projects with so many different field by using different programming languages but currently I'm working and improving myself on data science, machine learning, deep learning. I'm addicted to getting better everyday and can not stop learning until become the best one. My aim is to become a successful data developer/machine learning developer.</br>
 
 
