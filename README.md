@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amertaslan&label=Profile%20views&color=0e75b6&style=flat" alt="amertaslan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amertaslan" alt="amertaslan" /></a> </p>
-
 - 🔭 I’m currently working on [Skin Canser Software Diagnosis Mobile App](https://github.com/amertaslan/SkinCancerDiagnosis)
 
 - 🌱 I’m currently learning **Android Development with Kotlin**
