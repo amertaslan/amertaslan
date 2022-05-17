@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amertaslan&label=Profile%20views&color=0e75b6&style=flat" alt="amertaslan" /> </p>
 
-- 🔭 I’m currently working on [Skin Canser Software Diagnosis Mobile App](https://github.com/amertaslan/SkinCancerDiagnosis)
+- 🔭 I’m currently working on [Skin Cancer Software Diagnosis Mobile App](https://github.com/amertaslan/SkinCancerDiagnosis)
 
 - 🌱 I’m currently learning **Android Development with Kotlin**
 
